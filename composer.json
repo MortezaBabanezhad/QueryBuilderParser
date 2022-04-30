@@ -22,7 +22,6 @@
     "minimum-stability": "dev",
     "require": {
         "illuminate/database": "^9.0|^8.0||^7.0||^6.0||4.1 - 6.0",
-        "MortezaBabanezhad/query-builder-parser": "dev-master"
     },
     "suggest": {
         "jenssegers/mongodb": "Use QueryBuilderParser with MongoDB"
